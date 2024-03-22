@@ -24,9 +24,13 @@ This Haskell program implements the classic word-guessing game called Wordle. In
 2. **Compile & Execute:**
    - Open a terminal and navigate to the directory containing the Haskell file and the word list.
    - Compile and execute the Haskell program using the GHC compiler with the command:
+
+   Compile the code:
      ```
      ghc --make Wordle.hs
      ```
+
+   Execute the code:
      ```
      ghc --run Wordle.hs
      ```
