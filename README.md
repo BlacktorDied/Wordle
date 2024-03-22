@@ -1,4 +1,5 @@
 ### Wordle Game
+This Haskell program implements the classic word-guessing game called Wordle. In Wordle, players attempt to guess a secret word within a limited number of attempts. The game provides feedback on the correctness of each guess, aiding players in their subsequent attempts.
 
 **Objective:** Guess the secret word within 6 attempts.
 
