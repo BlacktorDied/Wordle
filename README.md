@@ -1,4 +1,4 @@
-### Wordle Game
+# Wordle Game
 This Haskell program implements the classic word-guessing game called Wordle. In Wordle, players attempt to guess a secret word within a limited number of attempts. The game provides feedback on the correctness of each guess, aiding players in their subsequent attempts.
 
 **Objective:** Guess the secret word within 6 attempts.
@@ -14,7 +14,7 @@ This Haskell program implements the classic word-guessing game called Wordle. In
 
 ---
 
-**Instructions:**
+## Instructions:
 
 1. **Installation:**
    - Ensure you have Haskell installed on your system.
@@ -26,12 +26,12 @@ This Haskell program implements the classic word-guessing game called Wordle. In
    - Compile and execute the Haskell program using the GHC compiler with the command:
 
    Compile the code:
-     ```
+     ```bash
      ghc --make Wordle.hs
      ```
 
    Execute the code:
-     ```
+     ```bash
      ghc --run Wordle.hs
      ```
 
@@ -43,7 +43,7 @@ This Haskell program implements the classic word-guessing game called Wordle. In
 
 ---
 
-**Notes:**
+# Notes
 - The program clears the terminal screen for a better user experience.
 - The game randomly selects a word from the provided word list.
 - This code was generated using GitHub Copilot and refined with input from ChatGPT 3.5/4.
